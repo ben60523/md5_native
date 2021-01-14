@@ -1,0 +1,1 @@
+Inspired by [Zunawe/md5-c](https://github.com/Zunawe/md5-c)
