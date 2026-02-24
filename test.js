@@ -1,4 +1,4 @@
-var md5 = require("./index");
+var md5 = require("./dist/index.cjs");
 var path = require("path")
 console.log(md5.withStr("Hello, World!"))
 console.log(md5.withFile(path.resolve("./README.md")))
